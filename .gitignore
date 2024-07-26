@@ -1,0 +1,33 @@
+# NetBeans specific
+/nbproject/private/
+/nbproject/private/private.xml
+/build/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+# IDE files
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# Compiled files
+/target/
+*.class
+
+# Logs
+*.log
+
+# Package files
+*.jar
+*.war
+*.ear
+src/main/java/UI/GestionPaquete/GestionPaqueteUI.java
+
+
+.vscode/
+bin/
+.idea
+
